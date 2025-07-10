@@ -89,13 +89,3 @@ This project uses **five CSV files**, each representing a part of Instacart’s 
 - How many items do users typically buy per order?
 - Which products tend to be the first added to the cart?
 
----
-
-## 📝 Deliverables
-
-- Clean, commented, and well-structured Jupyter Notebook
-- Visualizations with proper titles, labels, and `plt.show()` included
-- Markdown explanations for each finding
-- Final insights that help understand Instacart customer behavior
-
----
